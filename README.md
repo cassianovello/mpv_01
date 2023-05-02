@@ -10,3 +10,12 @@ O subconjunto do dataset original que será abordado neste trabalho é composto 
 A pesquisa foi respondida por tutores de gatos. Nesta pesquisa, eles classificaram o comportamento do animal de acordo com diversas situações como: "busca contato físico com pessoas", "abre portas", "descansa em locais seguros", etc, usando a escala Likert (escala de 5 graus que varia de discordo fortemente até concordo fortemente). Neste trabalho, não abordaremos as respostas da pesquisa em si, mas sim escores calculados com base nela.
 
 Mais informações sobre a pesquisa e o método de cálculo dos escores encontram-se no artigo [Reliability and Validity of Seven Feline Behavior and Personality Traits](https://doi.org/10.3390/ani11071991).
+
+---
+
+O arquivo DataScience_MVP_01.ipynb contém o código em Python de exploração do dataset.
+
+O arquivo Feline_dataset.xlsx é o dataset original.
+
+O arquivo Feline_dataset_compact.csv é um subconjunto do dataset, conforme relatado acima.
+
